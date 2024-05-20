@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudos .Net\\FreelApp\\FreelApp.Core\\FreelApp.Core.csproj",
-      "projectName": "FreelApp.Core",
-      "projectPath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Core\\FreelApp.Core.csproj",
+      "projectUniqueName": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\FreelApp.Application.csproj",
+      "projectName": "FreelApp.Application",
+      "projectPath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\FreelApp.Application.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Core\\obj\\",
+      "outputPath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",

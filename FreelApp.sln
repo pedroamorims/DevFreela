@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreelApp.Api", "FreelApp.Ap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreelApp.Core", "FreelApp.Core\FreelApp.Core.csproj", "{375CF925-F6ED-4DEE-B365-04A836CE4B0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreelApp.Infraestructure", "FreelApp.Infraestructure\FreelApp.Infraestructure.csproj", "{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreelApp.Infraestructure", "FreelApp.Infraestructure\FreelApp.Infraestructure.csproj", "{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreelApp.Application", "FreelApp.Application\FreelApp.Application.csproj", "{7484E206-420E-4977-9DC1-2F560DC1ADF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7484E206-420E-4977-9DC1-2F560DC1ADF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7484E206-420E-4977-9DC1-2F560DC1ADF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7484E206-420E-4977-9DC1-2F560DC1ADF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7484E206-420E-4977-9DC1-2F560DC1ADF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

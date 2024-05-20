@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.Api.csproj": {}
+    "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\FreelApp.Application.csproj": {}
   },
   "projects": {
-    "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.Api.csproj": {
+    "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\FreelApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.Api.csproj",
-        "projectName": "FreelApp.Api",
-        "projectPath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.Api.csproj",
+        "projectUniqueName": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\FreelApp.Application.csproj",
+        "projectName": "FreelApp.Application",
+        "projectPath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\FreelApp.Application.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\obj\\",
+        "outputPath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,12 +44,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -62,9 +56,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
