@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FreelApp.Infraestructure\FreelApp.Infraestructure.csproj" />
+  </ItemGroup>
+
 </Project>
