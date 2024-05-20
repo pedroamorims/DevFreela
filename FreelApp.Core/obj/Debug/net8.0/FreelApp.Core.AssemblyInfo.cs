@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FreelApp.Api")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FreelApp.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7d822c12fcee09e8f7cccaac3d37e954c900799")]
-[assembly: System.Reflection.AssemblyProductAttribute("FreelApp.Api")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FreelApp.Api")]
+[assembly: System.Reflection.AssemblyProductAttribute("FreelApp.Core")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FreelApp.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
