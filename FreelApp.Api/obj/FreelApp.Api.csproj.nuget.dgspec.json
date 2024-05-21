@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.API.csproj": {}
+    "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.Api.csproj": {}
   },
   "projects": {
-    "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.API.csproj": {
+    "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.API.csproj",
-        "projectName": "FreelApp.API",
-        "projectPath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.API.csproj",
+        "projectUniqueName": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.Api.csproj",
+        "projectName": "FreelApp.Api",
+        "projectPath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.Api.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
         "outputPath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\obj\\",
         "projectStyle": "PackageReference",

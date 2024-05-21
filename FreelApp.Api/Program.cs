@@ -17,6 +17,7 @@ builder.Services.AddDbContext<FreelAppDbContext>(
     );
 
 builder.Services.AddScoped<IProjectService, ProjectService>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 var app = builder.Build();
 

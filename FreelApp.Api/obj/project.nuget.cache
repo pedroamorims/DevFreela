@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uTN2x7JetVLgB2crDTG2s8ISa5Bar1yvuqPf4ffrf2u4R72gZsF8phZ1kuf6OONcG7ttvxncxjrhQdGF1b3mgQ==",
+  "dgSpecHash": "DH+d9bc8Ge6UiBar/68GYkK1wAqdANq9OJeFVMYZKyVZGQStb/dPUmTm7crdibCg4cBkrSO5hPm87EoF9acgCQ==",
   "success": true,
-  "projectFilePath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.API.csproj",
+  "projectFilePath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

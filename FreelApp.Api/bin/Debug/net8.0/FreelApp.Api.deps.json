@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "FreelApp.API/1.0.0": {
+      "FreelApp.Api/1.0.0": {
         "dependencies": {
           "FreelApp.Application": "1.0.0",
           "FreelApp.Infraestructure": "1.0.0",
@@ -14,7 +14,7 @@
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
-          "FreelApp.API.dll": {}
+          "FreelApp.Api.dll": {}
         }
       },
       "Azure.Core/1.38.0": {
@@ -933,7 +933,7 @@
     }
   },
   "libraries": {
-    "FreelApp.API/1.0.0": {
+    "FreelApp.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

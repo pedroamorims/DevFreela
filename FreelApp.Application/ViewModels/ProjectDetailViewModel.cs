@@ -8,7 +8,7 @@ namespace FreelApp.Application.ViewModels
 {
     public class ProjectDetailViewModel
     {
-        public ProjectDetailViewModel(int id, string title, string description, decimal? totalCost, DateTime startedAt, DateTime finishedAt)
+        public ProjectDetailViewModel(int id, string title, string description, decimal? totalCost, DateTime startedAt, DateTime finishedAt, string clientName, string freelancerName)
         {
             Id = id;
             Title = title;
@@ -16,6 +16,8 @@ namespace FreelApp.Application.ViewModels
             TotalCost = totalCost;
             StartedAt = startedAt;
             FinishedAt = finishedAt;
+            ClientName = clientName;
+            FreelancerName = freelancerName;
         }
 
         public int Id { get; private set; }
@@ -25,6 +27,8 @@ namespace FreelApp.Application.ViewModels
         public decimal? TotalCost { get; private set; }
         public DateTime StartedAt { get; private set; }
         public DateTime FinishedAt { get; private set; }
-    
+        public string ClientName { get; private set; }
+        public string FreelancerName { get; private set; }
+
     }
 }
