@@ -6,7 +6,7 @@ using FreelApp.Infraestructure.Persistence;
 
 namespace FreelApp.Application.Services.Implementations
 {
-    internal class ProjectService : IProjectService
+    public class ProjectService : IProjectService
     {
         private readonly FreelAppDbContext _dbContext;
         public ProjectService(FreelAppDbContext dbContext)
@@ -58,9 +58,14 @@ namespace FreelApp.Application.Services.Implementations
             return projectsViewModel;
         }
 
-        public ProjectDetailViewModel GetById(int id)
+        public ProjectDetailViewModel? GetById(int id)
         {
             var project = _dbContext.Projects.SingleOrDefault(p => p.Id == id);
+
+            if(project == null)
+            {
+                return null;
+            }
 
             var projectDetailsVielModel = new ProjectDetailViewModel(
                 project.Id,

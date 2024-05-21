@@ -1,3 +1,8 @@
+using FreelApp.Application.Services.Implementations;
+using FreelApp.Application.Services.Interfaces;
+using FreelApp.Infraestructure.Persistence;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +11,12 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddDbContext<FreelAppDbContext>(
+    options => options.UseSqlServer(builder.Configuration.GetConnectionString("FreelAppCs"))
+    );
+
+builder.Services.AddScoped<IProjectService, ProjectService>();
 
 var app = builder.Build();
 
