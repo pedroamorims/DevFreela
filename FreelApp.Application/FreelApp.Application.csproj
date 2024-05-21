@@ -10,4 +10,12 @@
     <ProjectReference Include="..\FreelApp.Infraestructure\FreelApp.Infraestructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Queries\GetAllSkills\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+
 </Project>

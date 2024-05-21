@@ -3,88 +3,44 @@
   "WorkspaceRootPath": "D:\\Estudos .Net\\FreelApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{142AC250-E085-413D-ABD2-6A09514BA2EE}|FreelApp.Api\\FreelApp.Api.csproj|d:\\estudos .net\\freelapp\\freelapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142AC250-E085-413D-ABD2-6A09514BA2EE}|FreelApp.Api\\FreelApp.Api.csproj|solutionrelative:freelapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142AC250-E085-413D-ABD2-6A09514BA2EE}|FreelApp.Api\\FreelApp.Api.csproj|d:\\estudos .net\\freelapp\\freelapp.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142AC250-E085-413D-ABD2-6A09514BA2EE}|FreelApp.Api\\FreelApp.Api.csproj|solutionrelative:freelapp.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\services\\interfaces\\iprojectservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\services\\interfaces\\iprojectservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\viewmodels\\projectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\viewmodels\\projectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{142AC250-E085-413D-ABD2-6A09514BA2EE}|FreelApp.Api\\FreelApp.Api.csproj|d:\\estudos .net\\freelapp\\freelapp.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{142AC250-E085-413D-ABD2-6A09514BA2EE}|FreelApp.Api\\FreelApp.Api.csproj|solutionrelative:freelapp.api\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\viewmodels\\projectdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\viewmodels\\projectdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\commands\\deleteproject\\deleteprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\commands\\deleteproject\\deleteprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\commands\\deleteproject\\deleteprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\commands\\deleteproject\\deleteprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\inputmodels\\newuserinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\inputmodels\\newuserinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\commands\\createproject\\createprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\commands\\createproject\\createprojectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{142AC250-E085-413D-ABD2-6A09514BA2EE}|FreelApp.Api\\FreelApp.Api.csproj|d:\\estudos .net\\freelapp\\freelapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{142AC250-E085-413D-ABD2-6A09514BA2EE}|FreelApp.Api\\FreelApp.Api.csproj|solutionrelative:freelapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\commands\\createproject\\createprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\commands\\createproject\\createprojectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\commands\\createcomment\\createcommentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\commands\\createcomment\\createcommentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{375CF925-F6ED-4DEE-B365-04A836CE4B0A}|FreelApp.Core\\FreelApp.Core.csproj|d:\\estudos .net\\freelapp\\freelapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375CF925-F6ED-4DEE-B365-04A836CE4B0A}|FreelApp.Core\\FreelApp.Core.csproj|solutionrelative:freelapp.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\inputmodels\\createcommentinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\inputmodels\\createcommentinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\services\\implementations\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\services\\implementations\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{142AC250-E085-413D-ABD2-6A09514BA2EE}|FreelApp.Api\\FreelApp.Api.csproj|d:\\estudos .net\\freelapp\\freelapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{142AC250-E085-413D-ABD2-6A09514BA2EE}|FreelApp.Api\\FreelApp.Api.csproj|solutionrelative:freelapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|d:\\estudos .net\\freelapp\\freelapp.infraestructure\\persistence\\freelappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|solutionrelative:freelapp.infraestructure\\persistence\\freelappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|d:\\estudos .net\\freelapp\\freelapp.infraestructure\\persistence\\configurations\\skillconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|solutionrelative:freelapp.infraestructure\\persistence\\configurations\\skillconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|d:\\estudos .net\\freelapp\\freelapp.infraestructure\\persistence\\configurations\\userskillconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|solutionrelative:freelapp.infraestructure\\persistence\\configurations\\userskillconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|d:\\estudos .net\\freelapp\\freelapp.infraestructure\\persistence\\configurations\\userconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|solutionrelative:freelapp.infraestructure\\persistence\\configurations\\userconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|d:\\estudos .net\\freelapp\\freelapp.infraestructure\\persistence\\configurations\\projectcommentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|solutionrelative:freelapp.infraestructure\\persistence\\configurations\\projectcommentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|d:\\estudos .net\\freelapp\\freelapp.infraestructure\\persistence\\configurations\\projectconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29C190C7-FBC1-4F35-AE1F-3209E6F6A917}|FreelApp.Infraestructure\\FreelApp.Infraestructure.csproj|solutionrelative:freelapp.infraestructure\\persistence\\configurations\\projectconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375CF925-F6ED-4DEE-B365-04A836CE4B0A}|FreelApp.Core\\FreelApp.Core.csproj|d:\\estudos .net\\freelapp\\freelapp.core\\entities\\projectcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375CF925-F6ED-4DEE-B365-04A836CE4B0A}|FreelApp.Core\\FreelApp.Core.csproj|solutionrelative:freelapp.core\\entities\\projectcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375CF925-F6ED-4DEE-B365-04A836CE4B0A}|FreelApp.Core\\FreelApp.Core.csproj|d:\\estudos .net\\freelapp\\freelapp.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375CF925-F6ED-4DEE-B365-04A836CE4B0A}|FreelApp.Core\\FreelApp.Core.csproj|solutionrelative:freelapp.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|d:\\estudos .net\\freelapp\\freelapp.application\\commands\\createcomment\\createcommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7484E206-420E-4977-9DC1-2F560DC1ADF9}|FreelApp.Application\\FreelApp.Application.csproj|solutionrelative:freelapp.application\\commands\\createcomment\\createcommentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,6 +53,110 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteProjectCommand.cs",
+              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\DeleteProject\\DeleteProjectCommand.cs",
+              "RelativeDocumentMoniker": "FreelApp.Application\\Commands\\DeleteProject\\DeleteProjectCommand.cs",
+              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\DeleteProject\\DeleteProjectCommand.cs",
+              "RelativeToolTip": "FreelApp.Application\\Commands\\DeleteProject\\DeleteProjectCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:10:21.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteProjectCommandHandler.cs",
+              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\DeleteProject\\DeleteProjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "FreelApp.Application\\Commands\\DeleteProject\\DeleteProjectCommandHandler.cs",
+              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\DeleteProject\\DeleteProjectCommandHandler.cs",
+              "RelativeToolTip": "FreelApp.Application\\Commands\\DeleteProject\\DeleteProjectCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:10:01.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProjectCommandHandler.cs",
+              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\CreateProject\\CreateProjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "FreelApp.Application\\Commands\\CreateProject\\CreateProjectCommandHandler.cs",
+              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\CreateProject\\CreateProjectCommandHandler.cs",
+              "RelativeToolTip": "FreelApp.Application\\Commands\\CreateProject\\CreateProjectCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:05:34.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProjectCommand.cs",
+              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\CreateProject\\CreateProjectCommand.cs",
+              "RelativeDocumentMoniker": "FreelApp.Application\\Commands\\CreateProject\\CreateProjectCommand.cs",
+              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\CreateProject\\CreateProjectCommand.cs",
+              "RelativeToolTip": "FreelApp.Application\\Commands\\CreateProject\\CreateProjectCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:05:33.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProjectServices.cs",
+              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Interfaces\\IProjectServices.cs",
+              "RelativeDocumentMoniker": "FreelApp.Application\\Services\\Interfaces\\IProjectServices.cs",
+              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Interfaces\\IProjectServices.cs",
+              "RelativeToolTip": "FreelApp.Application\\Services\\Interfaces\\IProjectServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:05:06.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Implementations\\ProjectService.cs",
+              "RelativeDocumentMoniker": "FreelApp.Application\\Services\\Implementations\\ProjectService.cs",
+              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Implementations\\ProjectService.cs",
+              "RelativeToolTip": "FreelApp.Application\\Services\\Implementations\\ProjectService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:04:59.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCommentInputModel.cs",
+              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\InputModels\\CreateCommentInputModel.cs",
+              "RelativeDocumentMoniker": "FreelApp.Application\\InputModels\\CreateCommentInputModel.cs",
+              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\InputModels\\CreateCommentInputModel.cs",
+              "RelativeToolTip": "FreelApp.Application\\InputModels\\CreateCommentInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:04:42.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCommentCommandHandler.cs",
+              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\CreateComment\\CreateCommentCommandHandler.cs",
+              "RelativeDocumentMoniker": "FreelApp.Application\\Commands\\CreateComment\\CreateCommentCommandHandler.cs",
+              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\CreateComment\\CreateCommentCommandHandler.cs",
+              "RelativeToolTip": "FreelApp.Application\\Commands\\CreateComment\\CreateCommentCommandHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:03:53.73Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
@@ -106,268 +166,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProjectDetailViewModel.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\ViewModels\\ProjectDetailViewModel.cs",
-              "RelativeDocumentMoniker": "FreelApp.Application\\ViewModels\\ProjectDetailViewModel.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\ViewModels\\ProjectDetailViewModel.cs",
-              "RelativeToolTip": "FreelApp.Application\\ViewModels\\ProjectDetailViewModel.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAhwAoAAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "CreateCommentCommand.cs",
+              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\CreateComment\\CreateCommentCommand.cs",
+              "RelativeDocumentMoniker": "FreelApp.Application\\Commands\\CreateComment\\CreateCommentCommand.cs",
+              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Commands\\CreateComment\\CreateCommentCommand.cs",
+              "RelativeToolTip": "FreelApp.Application\\Commands\\CreateComment\\CreateCommentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T22:01:17.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProjectViewModel.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\ViewModels\\ProjectViewModel.cs",
-              "RelativeDocumentMoniker": "FreelApp.Application\\ViewModels\\ProjectViewModel.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\ViewModels\\ProjectViewModel.cs",
-              "RelativeToolTip": "FreelApp.Application\\ViewModels\\ProjectViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T22:00:00.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "FreelApp.Api\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "FreelApp.Api\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T21:48:23.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NewUserInputModel.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\InputModels\\NewUserInputModel.cs",
-              "RelativeDocumentMoniker": "FreelApp.Application\\InputModels\\NewUserInputModel.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\InputModels\\NewUserInputModel.cs",
-              "RelativeToolTip": "FreelApp.Application\\InputModels\\NewUserInputModel.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAASwBYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T21:45:08.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\ViewModels\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "FreelApp.Application\\ViewModels\\UserViewModel.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\ViewModels\\UserViewModel.cs",
-              "RelativeToolTip": "FreelApp.Application\\ViewModels\\UserViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T21:43:55.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Implementations\\UserService.cs",
-              "RelativeDocumentMoniker": "FreelApp.Application\\Services\\Implementations\\UserService.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Implementations\\UserService.cs",
-              "RelativeToolTip": "FreelApp.Application\\Services\\Implementations\\UserService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T21:43:27.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "FreelApp.Application\\Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "FreelApp.Application\\Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T21:43:31.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProjectController.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\Controllers\\ProjectController.cs",
-              "RelativeDocumentMoniker": "FreelApp.Api\\Controllers\\ProjectController.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\Controllers\\ProjectController.cs",
-              "RelativeToolTip": "FreelApp.Api\\Controllers\\ProjectController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAIwBsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T21:41:43.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SkillService.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Implementations\\SkillService.cs",
-              "RelativeDocumentMoniker": "FreelApp.Application\\Services\\Implementations\\SkillService.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Implementations\\SkillService.cs",
-              "RelativeToolTip": "FreelApp.Application\\Services\\Implementations\\SkillService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T21:41:21.628Z",
+              "WhenOpened": "2024-05-21T23:03:29.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProjectService.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Implementations\\ProjectService.cs",
-              "RelativeDocumentMoniker": "FreelApp.Application\\Services\\Implementations\\ProjectService.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Application\\Services\\Implementations\\ProjectService.cs",
-              "RelativeToolTip": "FreelApp.Application\\Services\\Implementations\\ProjectService.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAhwDwAAAArAAAA",
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "FreelApp.Api\\Controllers\\ProjectController.cs",
+              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "FreelApp.Api\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwE0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T21:40:32.57Z",
+              "WhenOpened": "2024-05-21T21:41:43.946Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\Program.cs",
-              "RelativeDocumentMoniker": "FreelApp.Api\\Program.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\Program.cs",
-              "RelativeToolTip": "FreelApp.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:49:22.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "FreelApp.Api\\appsettings.json",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\appsettings.json",
-              "RelativeToolTip": "FreelApp.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-20T23:41:47.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SkillConfigurations.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\Configurations\\SkillConfigurations.cs",
-              "RelativeDocumentMoniker": "FreelApp.Infraestructure\\Persistence\\Configurations\\SkillConfigurations.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\Configurations\\SkillConfigurations.cs",
-              "RelativeToolTip": "FreelApp.Infraestructure\\Persistence\\Configurations\\SkillConfigurations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:37:22.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserSkillConfigurations.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\Configurations\\UserSkillConfigurations.cs",
-              "RelativeDocumentMoniker": "FreelApp.Infraestructure\\Persistence\\Configurations\\UserSkillConfigurations.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\Configurations\\UserSkillConfigurations.cs",
-              "RelativeToolTip": "FreelApp.Infraestructure\\Persistence\\Configurations\\UserSkillConfigurations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:35:54.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserConfigurations.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\Configurations\\UserConfigurations.cs",
-              "RelativeDocumentMoniker": "FreelApp.Infraestructure\\Persistence\\Configurations\\UserConfigurations.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\Configurations\\UserConfigurations.cs",
-              "RelativeToolTip": "FreelApp.Infraestructure\\Persistence\\Configurations\\UserConfigurations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:34:29.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProjectCommentConfiguration.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\Configurations\\ProjectCommentConfiguration.cs",
-              "RelativeDocumentMoniker": "FreelApp.Infraestructure\\Persistence\\Configurations\\ProjectCommentConfiguration.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\Configurations\\ProjectCommentConfiguration.cs",
-              "RelativeToolTip": "FreelApp.Infraestructure\\Persistence\\Configurations\\ProjectCommentConfiguration.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAcwAwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:33:26.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProjectConfigurations.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\Configurations\\ProjectConfigurations.cs",
-              "RelativeDocumentMoniker": "FreelApp.Infraestructure\\Persistence\\Configurations\\ProjectConfigurations.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\Configurations\\ProjectConfigurations.cs",
-              "RelativeToolTip": "FreelApp.Infraestructure\\Persistence\\Configurations\\ProjectConfigurations.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAcwAwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:31:25.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProjectComment.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Core\\Entities\\ProjectComment.cs",
-              "RelativeDocumentMoniker": "FreelApp.Core\\Entities\\ProjectComment.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Core\\Entities\\ProjectComment.cs",
-              "RelativeToolTip": "FreelApp.Core\\Entities\\ProjectComment.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:25:15.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Project.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Core\\Entities\\Project.cs",
-              "RelativeDocumentMoniker": "FreelApp.Core\\Entities\\Project.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Core\\Entities\\Project.cs",
-              "RelativeToolTip": "FreelApp.Core\\Entities\\Project.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBsAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:19:06.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "FreelApp.Core\\Entities\\User.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Core\\Entities\\User.cs",
-              "RelativeToolTip": "FreelApp.Core\\Entities\\User.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T23:18:55.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FreelAppDbContext.cs",
-              "DocumentMoniker": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\FreelAppDbContext.cs",
-              "RelativeDocumentMoniker": "FreelApp.Infraestructure\\Persistence\\FreelAppDbContext.cs",
-              "ToolTip": "D:\\Estudos .Net\\FreelApp\\FreelApp.Infraestructure\\Persistence\\FreelAppDbContext.cs",
-              "RelativeToolTip": "FreelApp.Infraestructure\\Persistence\\FreelAppDbContext.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBQAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T20:36:39.608Z"
             }
           ]
         }

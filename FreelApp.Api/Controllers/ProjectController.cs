@@ -1,5 +1,8 @@
-﻿using FreelApp.Application.InputModels;
+﻿using FreelApp.Application.Commands.CreateComment;
+using FreelApp.Application.Commands.CreateProject;
+using FreelApp.Application.InputModels;
 using FreelApp.Application.Services.Interfaces;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FreelApp.Api.Controllers
@@ -8,9 +11,11 @@ namespace FreelApp.Api.Controllers
     public class ProjectController : ControllerBase
     {
         private readonly IProjectService _projectService;
-        public ProjectController(IProjectService projectService)
+        private readonly IMediator _mediator;
+        public ProjectController(IProjectService projectService, IMediator mediator)
         {
-            _projectService = projectService;   
+            _projectService = projectService;
+            _mediator = mediator;
         }
 
 
@@ -27,7 +32,7 @@ namespace FreelApp.Api.Controllers
         {
             var project = _projectService.GetById(id);
 
-            if(project == null)
+            if (project == null)
             {
                 return NotFound();
             }
@@ -36,16 +41,24 @@ namespace FreelApp.Api.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post([FromBody] NewProjectInputModel inputModel)
+        public async Task<IActionResult> Post([FromBody] CreateProjectCommand command)
         {
-            if (inputModel.Title.Length > 50)
+            if (command.Title.Length > 50)
             {
                 return BadRequest();
             }
 
-            var id = _projectService.Create(inputModel);
+            var id = await _mediator.Send(command);
 
-            return CreatedAtAction(nameof(GetById), new { id = id}, inputModel);
+            return CreatedAtAction(nameof(GetById), new { id = id }, command);
+        }
+
+        [HttpPost("{id}/comments")]
+        public async Task<IActionResult> PostComment([FromBody] CreateCommentCommand command)
+        {
+            await _mediator.Send(command);
+
+            return Ok();
         }
 
         [HttpPut("{Id}")]
@@ -59,6 +72,15 @@ namespace FreelApp.Api.Controllers
             _projectService.Update(inputModel);
 
             return Ok();
+        }
+
+        [HttpDelete("{Id}")]
+        public IActionResult Delete(int id)
+        {
+            var command = new DeleteProjectCommand(id);
+            _mediator.Send(command);
+
+            return NoContent();
         }
 
 
