@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreelApp.Infraestructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c9256bc839a3db91939c48943717ccffd467730")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f12cfd8d2876d07c6f5b5070e26d0a1cfcbfb09e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FreelApp.Infraestructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreelApp.Infraestructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
