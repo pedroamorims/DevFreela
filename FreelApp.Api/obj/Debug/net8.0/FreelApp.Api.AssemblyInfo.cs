@@ -15,7 +15,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12d7116df35b161443d9b06287014b9e1e35944e")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcb8f8d6574824ebb81ee39d073e16bc6840dc2b")]
+>>>>>>> parent of df51157 (Remover arquivos do cache)
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcb8f8d6574824ebb81ee39d073e16bc6840dc2b")]
 >>>>>>> parent of df51157 (Remover arquivos do cache)
