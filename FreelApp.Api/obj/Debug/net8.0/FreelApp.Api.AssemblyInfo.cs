@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreelApp.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+407043b8a11b66820ae52ca25d197874b6c1a7b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+274a3f42d0addb93ff95eedf31253e4a83209f10")]
 [assembly: System.Reflection.AssemblyProductAttribute("FreelApp.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreelApp.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,6 @@
 ﻿using FreelApp.Application.ViewModels;
 using FreelApp.Core.Entities;
+using FreelApp.Core.Repositories;
 using FreelApp.Infraestructure.Persistence;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -14,14 +15,22 @@ namespace FreelApp.Application.Queries.GetAllProjects
     public class GetAllProjectsQueryHandler : IRequestHandler<GetAllProjectsQuery, List<ProjectViewModel>>
     {
         private readonly FreelAppDbContext _dbContext;
-        public GetAllProjectsQueryHandler(FreelAppDbContext dbContext)
+        private readonly IProjectRepository _projectRepository;
+        public GetAllProjectsQueryHandler(FreelAppDbContext dbContext, IProjectRepository projectRepository)
         {
             _dbContext = dbContext;
+            _projectRepository = projectRepository;
         }
         public async Task<List<ProjectViewModel>> Handle(GetAllProjectsQuery request, CancellationToken cancellationToken)
-        => await _dbContext.Projects
+        {
+            var projects = await _projectRepository.GetAllAsync();
+
+            var projectsViewModel = projects
                 .Select(p => new ProjectViewModel(p.Id, p.Title, p.CreatedAt))
-                .ToListAsync();
+                .ToList();
+
+            return projectsViewModel;
+        }
 
 
 
