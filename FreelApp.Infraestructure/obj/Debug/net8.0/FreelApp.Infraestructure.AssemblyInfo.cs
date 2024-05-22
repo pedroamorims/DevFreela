@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreelApp.Infraestructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12d7116df35b161443d9b06287014b9e1e35944e")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c9256bc839a3db91939c48943717ccffd467730")]
+>>>>>>> parent of df51157 (Remover arquivos do cache)
 [assembly: System.Reflection.AssemblyProductAttribute("FreelApp.Infraestructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreelApp.Infraestructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
