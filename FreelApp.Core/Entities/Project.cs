@@ -65,5 +65,6 @@ namespace FreelApp.Core.Entities
             Description = description;
             TotalCost = totalCost;
         }
+
     }
 }

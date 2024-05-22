@@ -1,4 +1,6 @@
 using FreelApp.Application.Commands.CreateProject;
+using FreelApp.Application.Queries.GetAllProjects;
+using FreelApp.Application.Queries.GetAllSkills;
 using FreelApp.Application.Services.Implementations;
 using FreelApp.Application.Services.Interfaces;
 using FreelApp.Infraestructure.Persistence;
@@ -20,7 +22,14 @@ builder.Services.AddDbContext<FreelAppDbContext>(
 builder.Services.AddScoped<IProjectService, ProjectService>();
 builder.Services.AddScoped<IUserService, UserService>();
 
-builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(typeof(CreateProjectCommand).Assembly));
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(
+    typeof(CreateProjectCommand).Assembly, 
+    typeof(GetAllProjectsQuery).Assembly,
+    typeof(GetAllSkillsQuery).Assembly,
+    typeof(DeleteProjectCommand).Assembly
+
+
+));
 
 var app = builder.Build();
 

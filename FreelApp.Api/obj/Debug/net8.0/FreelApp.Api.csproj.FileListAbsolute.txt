@@ -142,3 +142,5 @@ D:\Estudos .Net\FreelApp\FreelApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\S
 D:\Estudos .Net\FreelApp\FreelApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Estudos .Net\FreelApp\FreelApp.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Estudos .Net\FreelApp\FreelApp.Api\obj\Debug\net8.0\FreelApp.B62F6A0E.Up2Date
+D:\Estudos .Net\FreelApp\FreelApp.Api\bin\Debug\net8.0\MediatR.dll
+D:\Estudos .Net\FreelApp\FreelApp.Api\bin\Debug\net8.0\MediatR.Contracts.dll

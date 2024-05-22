@@ -1,8 +1,8 @@
 ﻿using MediatR;
 
-namespace FreelApp.Application.Commands.CreateProject
+namespace FreelApp.Application.Commands.UpdateProject
 {
-    public class CreateProjectCommand : IRequest<int>
+    public class UpdateProjectCommand : IRequest<Unit>
     {
         public string Title { get; set; }
         public string Description { get; set; }

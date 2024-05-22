@@ -1,6 +1,7 @@
 ﻿using FreelApp.Application.Commands.CreateComment;
 using FreelApp.Application.Commands.CreateProject;
 using FreelApp.Application.InputModels;
+using FreelApp.Application.Queries.GetAllProjects;
 using FreelApp.Application.Services.Interfaces;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -20,9 +21,10 @@ namespace FreelApp.Api.Controllers
 
 
         [HttpGet]
-        public IActionResult Get(string query)
+        public async Task<IActionResult> Get(string query)
         {
-            var projects = _projectService.GetAll(query);
+            var getAllProjectsQuery = new GetAllProjectsQuery();
+            var projects = await _mediator.Send(getAllProjectsQuery);
 
             return Ok(projects);
         }

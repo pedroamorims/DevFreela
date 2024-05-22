@@ -21,8 +21,6 @@ namespace FreelApp.Application.Services.Implementations
 
             return skill.Id;
         }
-        public List<SkillViewModel> GetAll(string query)
-            => _dbContext.Skills.Select(s => new SkillViewModel(s.Id, s.Description)).ToList();
 
 
     }
