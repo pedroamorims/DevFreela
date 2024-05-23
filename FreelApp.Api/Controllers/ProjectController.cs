@@ -45,10 +45,7 @@ namespace FreelApp.Api.Controllers
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] CreateProjectCommand command)
         {
-            if (command.Title.Length > 50)
-            {
-                return BadRequest();
-            }
+
 
             var id = await _mediator.Send(command);
 

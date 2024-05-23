@@ -1,18 +1,25 @@
 using FreelApp.Application.Commands.CreateProject;
-using FreelApp.Application.Queries.GetAllProjects;
-using FreelApp.Application.Queries.GetAllSkills;
 using FreelApp.Application.Services.Implementations;
 using FreelApp.Application.Services.Interfaces;
 using FreelApp.Core.Repositories;
 using FreelApp.Infraestructure.Persistence;
 using FreelApp.Infraestructure.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
+using FluentValidation.AspNetCore;
+using FreelApp.Application.Validators;
+using FreelApp.Api.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(options => options.Filters.Add(typeof(ValidationFilter)))
+                .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<CreateProjectCommandValidator>());
+
+
+
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "w5l03SF7BYixrPRpMGECnrYVNbK82knHJM5tgovret/KflME+4d3KLD5DGif5qBj3fQPqCi23rLIy8wmuch21w==",
+  "dgSpecHash": "yXl4n24NfQgDwAQO1DUEjXBdG78vNWZC0RJigPiTu7d480XtKXsj/pB9leFsuen4GORPaRZBZfCPobreR+IO5w==",
   "success": true,
   "projectFilePath": "D:\\Estudos .Net\\FreelApp\\FreelApp.Api\\FreelApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
