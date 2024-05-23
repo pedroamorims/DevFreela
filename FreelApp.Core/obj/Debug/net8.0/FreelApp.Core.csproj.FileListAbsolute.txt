@@ -1,0 +1,12 @@
+D:\Estudos .Net\FreelApp\FreelApp.Core\bin\Debug\net8.0\FreelApp.Core.deps.json
+D:\Estudos .Net\FreelApp\FreelApp.Core\bin\Debug\net8.0\FreelApp.Core.dll
+D:\Estudos .Net\FreelApp\FreelApp.Core\bin\Debug\net8.0\FreelApp.Core.pdb
+D:\Estudos .Net\FreelApp\FreelApp.Core\obj\Debug\net8.0\FreelApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos .Net\FreelApp\FreelApp.Core\obj\Debug\net8.0\FreelApp.Core.AssemblyInfoInputs.cache
+D:\Estudos .Net\FreelApp\FreelApp.Core\obj\Debug\net8.0\FreelApp.Core.AssemblyInfo.cs
+D:\Estudos .Net\FreelApp\FreelApp.Core\obj\Debug\net8.0\FreelApp.Core.csproj.CoreCompileInputs.cache
+D:\Estudos .Net\FreelApp\FreelApp.Core\obj\Debug\net8.0\FreelApp.Core.sourcelink.json
+D:\Estudos .Net\FreelApp\FreelApp.Core\obj\Debug\net8.0\FreelApp.Core.dll
+D:\Estudos .Net\FreelApp\FreelApp.Core\obj\Debug\net8.0\refint\FreelApp.Core.dll
+D:\Estudos .Net\FreelApp\FreelApp.Core\obj\Debug\net8.0\FreelApp.Core.pdb
+D:\Estudos .Net\FreelApp\FreelApp.Core\obj\Debug\net8.0\ref\FreelApp.Core.dll
